@@ -90,7 +90,7 @@ input, textarea {
 /* ============= MEDIA QUERIES (TABLETS) ================ */
 @media screen and (max-width:1024px) {
     .contact{
-        /* padding-bottom: 0; */
+        padding-bottom: 0;
     }
 
     .contact__container{
@@ -112,7 +112,7 @@ input, textarea {
     }
 }
 
-    /* =============MEDIA QUERIES small screen dev================ */
+    /* ============= MEDIA QUERIES (PHONES) ================ */
 
 @media screen and (max-width:600px) {
     .contact__container{
