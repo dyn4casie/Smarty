@@ -84,6 +84,7 @@ img {
 }
 
 .btn {
+    border-radius: 20rem;
     display: inline-block;
     background: var(--color-white);
     color: var(--color-black);
