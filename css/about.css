@@ -149,6 +149,12 @@
 /* ====== MEDIA QUERIES (MOBILE) ==================== */
 
 @media screen and (max-width:600px) {
+    .about__achievements-container{
+        display: flex !important;
+        /* flex-direction: column; */
+        flex-direction: column;
+        /* border: 3px solid red; */
+    }
     .achievements__cards{
         grid-template-columns: 1fr 1fr;
         gap: 0.7rem;
