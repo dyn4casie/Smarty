@@ -118,7 +118,7 @@
 }
 
 
-/* ===============media queries=========== */
+/* ===================== media queries =================== */
 @media screen and (max-width:1024) {
     .about__achievements{
         margin-top: 2rem;
@@ -146,9 +146,9 @@
     
 }
 
-/* ======sm media queries==================== */
+/* ====== MEDIA QUERIES (MOBILE) ==================== */
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:600px) {
     .about__achievements-container{
         display: flex !important;
         /* flex-direction: column; */
